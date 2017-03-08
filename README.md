@@ -1,5 +1,4 @@
-# dva-example-user-dashboard
-
+# dva-example-user-dashboard-路由使用了按需加载
 详见[《12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd)》](https://github.com/sorrycc/blog/issues/18)。
 
 ---
